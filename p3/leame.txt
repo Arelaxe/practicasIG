@@ -1,0 +1,15 @@
+Para activar el objeto creado por mí (flexo): B
+Activar/Desactivar animación: M
+Girar cabeza del flexo sobre eje Z: f5/f6
+Girar cabeza del flexo sobre eje Y: f7/f8
+Girar semibrazo 1 sobre el eje Z: f9/f10
+Girar semibrazo 2 sobre el eje Z: ,/.
+
+Para subir nota:
+Girar flexo sobre la base: f11/f12
+Decrementar/Aumentar velocidad de la animación: 8/9
+
+El archivo grafo.pdf es el grafo del objeto jerárquico
+
+
+Noelia Escalera Mejías

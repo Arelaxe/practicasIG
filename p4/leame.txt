@@ -1,0 +1,16 @@
+Para activar el objeto creado por mí (flexo): B
+Activar/Desactivar animación (también se mueve la luz roja): M
+Girar cabeza del flexo sobre eje Z: f5/f6
+Girar cabeza del flexo sobre eje Y: f7/f8
+Girar semibrazo 1 sobre el eje Z: f9/f10
+Girar semibrazo 2 sobre el eje Z: ,/.
+Girar flexo sobre la base: f11/f12
+Decrementar/Aumentar velocidad de la animación: 8/9
+Girar la luz roja: Mantener pulsado +
+Suavizado plano: 5
+Suavizado gouraud: 6
+Material 1: T
+Material 2: Y
+Material 3: U
+
+Noelia Escalera Mejías

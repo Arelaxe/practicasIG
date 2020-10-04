@@ -1,0 +1,6 @@
+Para subir nota he realizado:
+
+-Un octaedro, que se activa con el número 3.
+-Una pirámide cortada, que se activa con el número 4.
+
+Noelia Escalera Mejías. Grupo C1

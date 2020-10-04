@@ -1,0 +1,15 @@
+Teclas para activar las figuras:
+C: cubo
+P: pirámide
+R: Cilindro
+T: Cono
+Y: Esfera
+U: Lámpara (objeto creado rotando el perfil ply creado por mí)
+I: Cilindro rotado sobre el eje X (subir nota)
+O: Beethoven
+
+Teclas para activar modos de coloreado:
+1: Puntos
+2: Líneas
+3: Sólido
+4: Ajedrez

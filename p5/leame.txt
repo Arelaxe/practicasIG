@@ -1,0 +1,11 @@
+Práctica 5 IG. Noelia Escalera Mejías. Grupo C1
+
+Proyección en paralelo: X
+Proyección en perspectiva: Z
+
+El zoom está implementado con repág y avpág en ambas proyecciones, además se puede usar la rueda del ratón
+Implementado el movimiento de la cámara con el click derecho del ratón
+
+La parte de selección está implementada con el objeto jerárquico (flexo)
+Selección por triángulos: base
+Selección normal: Resto
